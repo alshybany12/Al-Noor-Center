@@ -7,7 +7,7 @@ body {
   background-color: #f9f9f9;
 }
 header {
-  background-color: #3b5998;
+  background-color: #16045f;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -25,10 +25,10 @@ section {
   margin-bottom: 2rem;
   padding: 1rem;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(23, 40, 170, 0.708);
 }
 footer {
-  background-color: #3b5998;
+  background-color: #16045f;
   color: white;
   text-align: center;
   padding: 1rem;
